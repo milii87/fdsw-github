@@ -11,6 +11,14 @@ body {
   background-position: left;
 }
 
+#Hero-Section h1 {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Ajusta los valores según tu preferencia */
+}
+
+#Hero-Section p {
+  text-shadow: 6px 6px 6px rgba(0, 0, 0, 0.8); /* Ajusta los valores según tu preferencia */
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
